@@ -2,7 +2,7 @@
 
   - build.gradle.kts;
   - gradle.properties;
-  - gradlew.
+  - gradlew;
   - gradlew.bat;
   - settings.gradle.kts.
 
