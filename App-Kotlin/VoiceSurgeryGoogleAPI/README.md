@@ -7,3 +7,6 @@
   - settings.gradle.kts.
 
 - Qual a diferença entre gradlew e gradlew.bat?
+
+- Porque o arquivo LISTA DE VERIFICAÇÃO DA CIRURGIA SEGURA3.pdf  está repetido nas pastas VoiceSurgeryGoogleAPI e apk+pdf? Pode deixar apenas no apk+pdf?
+  
