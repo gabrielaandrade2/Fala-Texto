@@ -1,0 +1,1 @@
+- Diferente do VoiceSurgeryGoogleAPI, a pasta app não tem a pasta release, apenas src, porque?
