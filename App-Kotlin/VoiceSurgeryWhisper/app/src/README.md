@@ -1,0 +1,1 @@
+- Esses arquivos são os mesmos que estão em VoiceSurgeryGoogleAPI? Caso não seja, qual a diferença entre eles?
